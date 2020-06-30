@@ -44,4 +44,4 @@ Pneumonia|0.98|0.97|0.98|411
 COVID-19|1.00|1.00|1.00|23
 
 ## Visualization
-By using Grad-CAM, we can visualize the contribution of CBAM
+By using Grad-CAM, we can visualize the contribution of CBAM (in folder)
