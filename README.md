@@ -37,7 +37,7 @@ We then added CBAM to the network with the same hyperparameter.
 
 Results are as follows:
 
-ResNet18|Precision|Recall|F1-score|Num
+CBAMResNet18|Precision|Recall|F1-score|Num
 :----:|:----:|:----:|:----:|:----:
 Normal|0.93|0.95|0.94|151
 Pneumonia|0.98|0.97|0.98|411
